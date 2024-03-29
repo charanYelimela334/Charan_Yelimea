@@ -1,2 +1,2 @@
 # Charan_Yelimea
-Python Slot Machine 
+Python Slot Machine Beginner Projects
